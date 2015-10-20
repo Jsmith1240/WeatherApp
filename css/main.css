@@ -1,0 +1,29 @@
+p {
+	border: 5px solid blue;
+}
+#color {
+	height: 97px;
+}
+#temp{
+	font-size: 4em;
+}
+#city{
+	font-size: 3em;
+	text-decoration: bold:
+}
+#description{
+	font-size: 3em;
+}
+#sunset{
+	font-size: 3em;
+}
+#sunrise{
+	font-size: 3em;
+}
+body {
+	background: linear-gradient(45deg, GoldenRod 25%,
+    Gray 25%, Gray 50%, 
+    GoldenRod 50%, GoldenRod 75%, 
+    Gray 75%);
+	background-size:100px 100px;
+}
